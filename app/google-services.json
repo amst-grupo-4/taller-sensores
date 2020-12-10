@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874652877954",
+    "project_id": "findafri",
+    "storage_bucket": "findafri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874652877954:android:7e36afc8fb5a3e16a5e09b",
+        "android_client_info": {
+          "package_name": "com.example.findafriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874652877954-0egvqf5vk42r95r5vqgomp0ci1lli05k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findafriend",
+            "certificate_hash": "177f229018b14f779b6602e3552284dacafe5687"
+          }
+        },
+        {
+          "client_id": "874652877954-dcf1rqevh3egg1n4936erijo3gjt10vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCerPwKa9Z3Tf3KTyTw8kanM-x1M1nq2nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874652877954-dcf1rqevh3egg1n4936erijo3gjt10vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
